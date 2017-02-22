@@ -7,6 +7,7 @@ Required plugins that are here:
  * Skellett
  * skRayFall
  * WildSkript
+ * jsonSk
 
 
 Directory that are located: [JabsSkript/Requirements/files/](https://github.com/JabsSkript/Requirements/tree/master/files)
@@ -18,6 +19,7 @@ Download all!
  * [Skellett](https://github.com/JabsSkript/Requirements/raw/master/files/Skellett.jar)
  * [skRayFall v1.8](https://github.com/JabsSkript/Requirements/raw/master/files/skRayFall_v1.8.jar)
  * [WildSkript 1.7-1.8](https://github.com/JabsSkript/Requirements/raw/master/files/WildSkript1.7-1.8.jar)
+ * [jsonSk](https://github.com/JabsSkript/Requirements/blob/master/files/json.sk)
 
 
 ### My public skripts:
